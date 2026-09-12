@@ -39,3 +39,8 @@ dev = [
 
 [tool.pytest.ini_options]
 pythonpath = ["."]
+
+[tool.uv.workspace]
+members = [
+    "streamlit_app",
+]
