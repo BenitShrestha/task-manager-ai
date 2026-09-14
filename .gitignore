@@ -1,3 +1,4 @@
 /.jbeval
 /.venv
 .env
+streamlit_app/.env
